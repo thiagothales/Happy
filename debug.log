@@ -1,0 +1,4 @@
+[1013/231539.640:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Thiag\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\8cb78d79-d87a-48cb-8bc2-c84b39a21c5c: O sistema não pode encontrar o caminho especificado. (0x3)
+[1013/231539.646:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1105/154801.467:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1110/152134.756:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
